@@ -66,6 +66,8 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     python-dateutil==2.8.2
     six==1.16.0
     ```
+* Resultado
+    ![image](https://i.imgur.com/Nq5MCvS.png)
 
 ### Desactivar un entorno virtual
 
