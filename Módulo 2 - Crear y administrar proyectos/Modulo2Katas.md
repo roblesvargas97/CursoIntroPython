@@ -36,6 +36,9 @@ Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno vi
 
 ![image](https://user-images.githubusercontent.com/9124597/153076991-25e857c5-a910-4d54-80b9-47fce1b62147.png)
 
+![image](https://i.imgur.com/SZtmyBC.png)
+
+
 ## Instalar una biblioteca
 
 Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y saber que la biblioteca solo existirá en el entorno virtual.
@@ -52,6 +55,8 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
    ```
    pip install python-dateutil
    ```
+![image](https://i.imgur.com/kvp6oT1.png)
+   
 * Un gran mensaje de salida de texto dice que está instalando tu biblioteca, y debe terminar con la siguiente oración:
 
     ```
